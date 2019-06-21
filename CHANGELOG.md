@@ -1,3 +1,7 @@
+# 3.2.0-alpha.3 (2019-06-21)
+
+- Built library against the `fix-umd-modules` branch in Builder to confirm new AoT implementation for UMD bundles.
+
 # 3.2.0-alpha.2 (2019-06-20)
 
 - Built library against `@skyux-sdk/builder@3.6.7` to verify existing implementation of AoT does not work.
